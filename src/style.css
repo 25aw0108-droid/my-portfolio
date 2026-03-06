@@ -249,8 +249,9 @@ nav {
   .home-visual { width: 100%; display: flex; justify-content: center; }
 }
 @media (max-width: 600px) {
-  .home-name { font-size: 48px; }
+  .home-name { font-size: 28px; }
   .home-stats { gap: 24px; }
+  .badge-3{ right: -9px; }
 }
 
 
