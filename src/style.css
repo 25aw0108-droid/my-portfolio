@@ -250,6 +250,7 @@ nav {
 }
 @media (max-width: 600px) {
   .home-name { font-size: 28px; }
+  .home-name .highlight { font-size: 30px; }
   .home-stats { gap: 24px; }
   .badge-3{ right: -9px; }
 }
