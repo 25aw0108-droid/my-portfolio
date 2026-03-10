@@ -88,18 +88,5 @@ export const projectsData = {
     learnings: "自分がやりたいデザインを、Reactを使って形にすることができました。コンポーネントの作り方もきちんと理解できました。",
     websiteLink: "https://lemon-project-azure.vercel.app/",
   },
-  "project5": {
-    id: "project5",
-    title: "DJI Osmo Pocket3 スペシャルサイト制作",
-    image: "/images/osmo pocket3.png", 
-    request: "一般層への知名度向上と売上拡大を目的とし、費用対効果の高いSNS連動型スペシャルサイトを制作する。",
-    target: "小学生以下の子供を持つ30代～40代の親",
-    concept: "一生の記憶を自分の目で。",
-    uiDesign: "白をベースにして、あたたかいイメージにしています。スマートフォンで見やすいように、たてにスクロールする形にしました。",
-    duration: "1か月間",
-    role: "企画、デザイン",
-    tools: "Figma / Photoshop / Miro",
-    struggles: "進級制作をしながら制作を進めたので、チームみんなとても大変でした。時間の管理がとても大事でした。",
-    learnings: "チームみんなで力を入れて作りました。その中で、チームワークや時間の管理をしっかりすることができました。"
-  }
+
 };
