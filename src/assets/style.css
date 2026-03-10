@@ -85,6 +85,8 @@ body::before {
   pointer-events: none;
   z-index: 0;
   animation: blobFloat 12s ease-in-out infinite alternate;
+  will-change: transform;
+  transform: translateZ(0);
 }
 
 .blob-1 { width: 400px; height: 400px; background: rgba(255,110,180,0.15); top: -100px; right: -100px; }

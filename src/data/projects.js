@@ -100,7 +100,6 @@ export const projectsData = {
     role: "企画、デザイン",
     tools: "Figma / Photoshop / Miro",
     struggles: "進級制作をしながら制作を進めたので、チームみんなとても大変でした。時間の管理がとても大事でした。",
-    learnings: "チームみんなで力を入れて作りました。その中で、チームワークや時間の管理をしっかりすることができました。",
-    websiteLink: "https://nu-two-33.vercel.app/",
+    learnings: "チームみんなで力を入れて作りました。その中で、チームワークや時間の管理をしっかりすることができました。"
   }
 };
