@@ -88,8 +88,8 @@ export const projectsData = {
     learnings: "自分がやりたいデザインを、Reactを使って形にすることができました。コンポーネントの作り方もきちんと理解できました。",
     websiteLink: "https://lemon-project-azure.vercel.app/",
   },
-  "project3": {
-    id: "project3",
+  "project5": {
+    id: "project5",
     title: "DJI Osmo Pocket3 スペシャルサイト制作",
     image: "/images/osmo pocket3.png", 
     request: "一般層への知名度向上と売上拡大を目的とし、費用対効果の高いSNS連動型スペシャルサイトを制作する。",
