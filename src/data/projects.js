@@ -51,7 +51,7 @@ export const worksList = [
     pill: "授業課題",
     roles: ["企画", "デザイン"], 
     tools: [], 
-    link: "/project/project3", 
+    link: "/project/project5", 
     isExternal: false
   }
 ];
