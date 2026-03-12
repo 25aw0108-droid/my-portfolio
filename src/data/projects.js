@@ -15,7 +15,7 @@ export const worksList = [
     title: "焼き菓子3＆1ECサイト制作",
     image: "/images/焼き菓子.png", 
     alt: "焼き菓子3＆1ECサイト制作",
-    pill: "進級制作",
+    pill: "産学連携授業",
     roles: ["企画書", "デザイン", "実装"],
     tools: ["HTML", "CSS", "JavaScript", "React Js"],
     link: "/project/project2",
@@ -88,5 +88,4 @@ export const projectsData = {
     learnings: "自分がやりたいデザインを、Reactを使って形にすることができました。コンポーネントの作り方もきちんと理解できました。",
     websiteLink: "https://lemon-project-azure.vercel.app/",
   },
-
 };

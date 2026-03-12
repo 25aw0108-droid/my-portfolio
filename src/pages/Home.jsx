@@ -90,7 +90,6 @@ const Home = () => {
           <div className="works-slider-wrapper">
             <button className="slider-arrow arrow-prev" onClick={() => scrollSlider('prev')}><i className="fa-solid fa-chevron-left"></i></button>
             
-            {/* ONLY ONE works-slider-track HERE */}
             <div className="works-slider-track" ref={trackRef}>
               {worksList.map((work, index) => (
                 <article className="work-card" key={index}>
