@@ -51,8 +51,8 @@ export const worksList = [
     pill: "授業課題",
     roles: ["企画", "デザイン"], 
     tools: [], 
-    link: "/project/project5", 
-    isExternal: false
+    link: "https://www.figma.com/design/OdYLjpU4iikUv7CQmUDCIs/DJI-Osmo-Pocket-3?node-id=0-1&t=F7GuVKGRCLodqdo4-1", 
+    isExternal: true
   }
 ];
 
@@ -87,5 +87,20 @@ export const projectsData = {
     struggles: "Reactを勉強しながらつくったので、エラーの原因を調べる時間が多かったです。",
     learnings: "自分がやりたいデザインを、Reactを使って形にすることができました。コンポーネントの作り方もきちんと理解できました。",
     websiteLink: "https://lemon-project-azure.vercel.app/",
+  },
+  "project5": {
+    id: "project5",
+    title: "DJI Osmo Pocket3 スペシャルサイト",
+    image: "/images/osmo pocket3.png", 
+    request: "一般層への知名度向上と売上拡大を目的とし、Vloggerやガジェット好き以外の層にも「欲しい」と感じさせる訴求を行う。そのために、費用対効果の高いSNS連動型スペシャルサイトを制作し、製品の裾野拡大を図る。",
+    target: "小学生以下の子供を持つ30代～40代の親",
+    concept: "一生の記憶を自分の目で。",
+    uiDesign: "本サイトは「一生の記憶を、自分の目で。」をテーマにしました。専門の人だけでなく、ふつうの人にも気持ちが伝わる内容にしています。はじめに、質問や「思い出ロス診断」で、ユーザーが自分のこととして考えられるようにしました。そのあとで、商品のよさを分かりやすく紹介します。デザインは白をベースにして、あたたかいイメージにしています。スマートフォンで見やすいように、たてにスクロールする形にしました。気持ちを動かし、体験してもらい、商品を知ってもらってから、自然に購入ページへ進める流れです。知名度アップと売上アップを目指します。",
+    duration: "1か月間",
+    role: "企画、デザイン",
+    tools: "Figma / Photoshop ",
+    struggles: "進級制作をしながら制作を進めたので、チームみんなとても大変でした。時間の管理がとても大事だったので、スケジュールをしっかり考えて行いました。進級制作もほかの課題も、すべて期限に間に合うように進めることが一番大変でした。",
+    learnings: "チームみんなで力を入れて作りました。その中で、チームワークや時間の管理をしっかりすることができました。",
+    websiteLink: "https://www.figma.com/design/OdYLjpU4iikUv7CQmUDCIs/DJI-Osmo-Pocket-3?node-id=0-1&t=F7GuVKGRCLodqdo4-1",
   },
 };
