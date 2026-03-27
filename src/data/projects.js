@@ -51,8 +51,8 @@ export const worksList = [
     pill: "授業課題",
     roles: ["企画", "デザイン"], 
     tools: [], 
-    link: "https://www.figma.com/design/OdYLjpU4iikUv7CQmUDCIs/DJI-Osmo-Pocket-3?node-id=0-1&t=F7GuVKGRCLodqdo4-1", 
-    isExternal: true
+    link: "/project/project5", 
+    isExternal: false
   }
 ];
 
