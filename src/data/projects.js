@@ -40,7 +40,7 @@ export const worksList = [
     pill: "自主制作",
     roles: ["デザイン", "実装"],
     tools: ["HTML", "CSS", "JavaScript", "React Js"],
-    link: "/project/project4", 
+    link: "/", 
     isExternal: false
   },
   {
@@ -87,18 +87,6 @@ export const projectsData = {
     struggles: "Reactを勉強しながらつくったので、エラーの原因を調べる時間が多かったです。",
     learnings: "自分がやりたいデザインを、Reactを使って形にすることができました。コンポーネントの作り方もきちんと理解できました。",
     websiteLink: "https://lemon-project-azure.vercel.app/",
-  },
-    "project4": {
-    id: "project4",
-    title: "ポートフォリオ制作",
-    image: "/images/portfolio_mockup.png", 
-    request: "就職活動に向けて、自分の強みやこれまでの経験を分かりやすく伝えるためのポートフォリオサイトを制作しました。",
-    uiDesign: "好きな色はピンクで、やわらかく親しみやすい印象を与えるため、UIデザインにも取り入れています。",
-    duration: "１か月間",
-    role: "デザイン、実装",
-    tools: "Figma / Photoshop / Visual Studio Code / GitHub / Figma / Photoshop / Visual Studio Code / GitHub / Vercel",
-    struggles: "自分のポートフォリオを通して、応募先の企業に自分の強みや人柄が正確に伝わるように表現することが難しかったです。",
-    websiteLink: "https://khaingkhinoo-portfolio2026.vercel.app/",
   },
   "project5": {
     id: "project5",

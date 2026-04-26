@@ -53,7 +53,7 @@ const Home = () => {
               <p className="home-name">こんにちは。<span className="highlight">カイキンウー</span>と申します。</p>
               <div className="home-title"><TypingText /></div>
               <div className="home-actions">
-                <a href="/履歴書/08_カイキンウー履歴書.pdf" className="btn-home" download>履歴書</a>
+                {/* <a href="/履歴書/カイキンウー履歴書.pdf" className="btn-home" download>履歴書</a> */}
                 <a href="#contact" className="btn-home">Contact</a>
               </div>
               <div className="home-stats">
